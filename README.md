@@ -29,6 +29,7 @@ for feedback in negative_feedback:
   print(feedback)
 ```
 # Output:
-![alt text](<Screenshot 2025-04-29 083836.png>)
+![image](https://github.com/user-attachments/assets/801c5d08-cea8-49a3-9354-399a40d54dc3)
+
 # Inference:
 A sentiment analysis project using Facebook data provides valuable learning experiences in data handling, text processing, sentiment analysis, and ethical considerations, while also honing communication, problem-solving, and project management skills.
